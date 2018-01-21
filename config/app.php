@@ -176,6 +176,7 @@ return [
         // Oauth2\Providers\BroadcastServiceProvider::class,
         Oauth2\Providers\EventServiceProvider::class,
         Oauth2\Providers\RouteServiceProvider::class,
+        Laravel\Passport\PassportServiceProvider::class,
 
     ],
 
